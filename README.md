@@ -1,2 +1,2 @@
-# clase05-hooks
+# ClasePrueba
 Created with CodeSandbox
